@@ -66,7 +66,7 @@ All data preparation was performed within Tableau, including:
 ```
 spotify-listening-behaviour/
 │
-├── Spotify_2025_Dashboard.twbx              # Tableau packaged workbook
+├── spotify_dashboard.twbx                   # Tableau packaged workbook
 ├── spotify_extended_history_2025.csv        # Dataset
 |
 ├── images/
