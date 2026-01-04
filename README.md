@@ -18,7 +18,7 @@ The focus is on understanding listening behaviour, time-based engagement pattern
   - `platform` – Device or platform used
   - `reason_start` – Playback start reason
   - `reason_end` – Playback end reason
-- Raw dataset: `spotify_extended_history_2025.csv`
+- Raw dataset: `spotify_extended_history_2025.json`
 
 ---
 
@@ -48,7 +48,7 @@ All data preparation was performed within Tableau, including:
 - Includes filters for time period, artist, and track.
 - Designed to support exploratory analysis and insight discovery.
 
-🔗 **Tableau Public dashboard:** *(insert link here)*
+🔗 **Tableau Public dashboard:** *(https://public.tableau.com/app/profile/tung.yee.sia/viz/Spotify_17660486779450/Spotify?publish=yes)*
 
 ---
 
@@ -67,7 +67,7 @@ All data preparation was performed within Tableau, including:
 spotify-listening-behaviour/
 │
 ├── spotify_dashboard.twbx                   # Tableau packaged workbook
-├── spotify_extended_history_2025.csv        # Dataset
+├── spotify_extended_history_2025.json       # Dataset
 |
 ├── images/
 │   └── dashboard_overview.png               # Dashboard preview
