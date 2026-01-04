@@ -48,7 +48,7 @@ All data preparation was performed within Tableau, including:
 - Includes filters for time period, artist, and track.
 - Designed to support exploratory analysis and insight discovery.
 
-🔗 **Tableau Public dashboard:** *(https://public.tableau.com/app/profile/tung.yee.sia/viz/Spotify_17660486779450/Spotify?publish=yes)*
+🔗 **[Tableau Public dashboard](https://public.tableau.com/app/profile/tung.yee.sia/viz/Spotify_17660486779450/Spotify?publish=yes)** 
 
 ---
 
